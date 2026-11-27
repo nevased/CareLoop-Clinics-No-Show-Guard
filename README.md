@@ -5,7 +5,7 @@
 
 ## Project Summary
 
-- **Part 1 – Data cleaning:** [ADD YOUR ACTUAL CLEANING FINDING AND NUMBER HERE].
+- **Part 1 – Data cleaning:** https://github.com/nevased/CareLoop-Clinics-No-Show-Guard/blob/main/01_ingest_clean.ipynb.
 - **Part 2 – SQL analysis:** [ADD YOUR ACTUAL SQL FINDING AND NUMBER HERE].
 - **Part 3 – Machine learning:** Logistic Regression achieved a test ROC-AUC of 0.7889; the selected classification threshold was 0.35.
 - **Part 4 – GenAI analysis:** Analysed 10 follow-up notes; 5 records (50.00%) had no reminder recorded.
