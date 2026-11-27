@@ -1,7 +1,7 @@
 
 # Healthcare Appointment No-Show Prediction and Follow-up Analysis
 
-**GitHub Repository:** ADD_YOUR_PUBLIC_GITHUB_REPOSITORY_LINK_HERE
+**GitHub Repository:** https://github.com/nevased/CareLoop-Clinics-No-Show-Guard
 
 ## Project Summary
 
